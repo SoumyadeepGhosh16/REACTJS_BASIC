@@ -27,7 +27,8 @@ function App() {
       </div>
       <p className="read-the-docs">
         Trying hard to learn ReactJS
-           -Soumyadeep Ghosh
+           -Soumyadeep Ghosh 
+           <a href="https://google.com" target="_blank">visit google</a>
       </p>
     </>
   )
